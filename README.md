@@ -1,3 +1,4 @@
+
 # Employee Attrition Prediction
 
 
@@ -107,3 +108,9 @@ IBM HR Analytics Employee Attrition dataset
 ---
 
 ### Repository Structure
+```
+├── employee-attrition-prediction.ipynb   # Full notebook with all code
+├── Report.pdf                            # Final assignment report
+└── README.md                             # This file
+```
+
