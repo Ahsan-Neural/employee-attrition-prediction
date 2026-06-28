@@ -1,4 +1,3 @@
-
 # Employee Attrition Prediction
 
 
@@ -84,6 +83,7 @@ employees likely to leave so HR teams can intervene early.
 - Single employees showed 25% attrition vs 10% for divorced employees
 
 ---
+
 
 ### Dataset
 IBM HR Analytics Employee Attrition dataset
