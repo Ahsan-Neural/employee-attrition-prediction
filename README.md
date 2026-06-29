@@ -83,8 +83,6 @@ employees likely to leave so HR teams can intervene early.
 - Single employees showed 25% attrition vs 10% for divorced employees
 
 ---
-
-
 ### Dataset
 IBM HR Analytics Employee Attrition dataset
 - Records: 1,470 employees | Features: 35
